@@ -1,2 +1,2 @@
 # VisualisationWithPython
-This repo has got you covered! It's packed with all the basics, simple examples, and practice exercises to help you learn Python step by step.
+This repository focuses on data visualization using Python's powerful libraries, Seaborn and Matplotlib. It includes examples and code for creating insightful charts, graphs, and plots to explore and present data effectively. From simple line and bar charts to advanced visualizations, this repo is a great resource for anyone aiming to master data storytelling through visuals!
